@@ -18,8 +18,8 @@ The pipeline for this working example was developed for training/testing differe
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/trajectory-vae-toolbox.git
-cd trajectory-vae-toolbox
+git clone https://github.com/JaleesaHoule/LatentSpaceExplorer.git
+cd LatentSpaceExplorer
 pip install -r requirements.txt
 ```
 
