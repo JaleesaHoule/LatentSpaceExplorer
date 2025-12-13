@@ -1,5 +1,5 @@
 
-# Trajectory VAE Toolbox
+# Latent Space Explorer
 
 A modular toolbox for visualizing and exploring an autoencoder's latent space
 
