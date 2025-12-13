@@ -7,6 +7,8 @@ The pipeline for this working example was developed for training/testing differe
 
 ![Training pipeline](VAEpipeline.png)
 
+https://github.com/user-attachments/assets/9ca2f607-5a4b-4abc-a2d8-02acee4c48e2
+
 <video src="
 https://github.com/user-attachments/assets/9ca2f607-5a4b-4abc-a2d8-02acee4c48e2" controls="controls" style="max-width: 730px;"></video>
 
