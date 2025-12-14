@@ -14,7 +14,6 @@ Note that the hyperparams for this VAE have not been optimized and could be impr
 
 # Quick Demo:
 
-https://github.com/user-attachments/assets/02fc6666-78cc-4ac0-895a-3e683173845e
 
 
 <video src="https://github.com/user-attachments/assets/02fc6666-78cc-4ac0-895a-3e683173845e" controls="controls" style="max-width: 730px;"></video>
