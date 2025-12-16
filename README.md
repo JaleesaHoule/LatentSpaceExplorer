@@ -8,6 +8,9 @@ The pipeline for this working example was developed for training/testing differe
 ![Training pipeline](VAEpipeline.png)
 
 
+
+ ** This is a tool built for assessing various latent space attributes of an ongoing project which is currently under review. Full information on the methods for this pipeline will be shared upon publication. **
+
 Note that the hyperparams for this VAE have not been optimized and could be improved with tuning. Also note that this pipeline is projecting an already compressed latent space into 2D using PCA, so the ability to reconstruct/ generate new trajectories will be constrained by the quality of your PCA reduction. In this example, going to a 2D representation allows for 70% explained variance of the latent space, so newly generated trajectories are not fantastic. 
 
 
